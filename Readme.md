@@ -1,5 +1,5 @@
 ### Creating Microservice using Python + Flask + Redis + SQLite3 + Elasticsearch
-------
+---------
 
 #### Explained the details in the Medium
 
@@ -13,6 +13,8 @@
 + Postman
 
 Use the above tools to visualize the database files and to run the endpoints.
+
+---------
 
 #### Commands Used
 
