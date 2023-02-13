@@ -10,5 +10,14 @@
 
 + [SQLite Viewer](https://sqliteviewer.app/)
 + [Redis RDB Tools](https://github.com/sripathikrishnan/redis-rdb-tools)
++ Postman
 
+Use the above tools to visualize the database files and to run the endpoints.
+
+#### Commands Used
+
+```
+#1 curl -XGET http://localhost:5000/
+#2 curl -X POST -d "message=test_message" http://localhost:5000/log
+```
 
